@@ -37,5 +37,6 @@ feature comparison matrix of the tools.
 * [SMART](https://github.com/RTIInternational/SMART)
 * [Tagtog](https://www.tagtog.net/)
 * [YEDDA](https://github.com/jiesutd/YEDDA)
+* [UBIAI](https://ubiai.tools/) - Easy-to-use text annotation tool for teams with most comprehensive auto-annotation features. Supports NER, relations and document classification as well as OCR annotation for invoice labeling
 
 [Feature comparison of the above text annotation tools](https://docs.google.com/spreadsheets/d/1iKO0PhOhthsjZHGyhmsmYKKOxdmdJxrCJdNYevB3L4A/edit?usp=sharing).
